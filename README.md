@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## 😄Hi there, I'm [Yichen Sun](https://scholar.google.com/citations?hl=zh-CN&user=8XHm_3MAAAAJ)!  ![Yichen's github stats](https://github-readme-stats.vercel.app/api?username=sunyichen1994&show_icons=true&theme=radical)
 
-### 🌱I received my Ph.D. from Beijing University of Technology, I was once a member of the Key Laboratory of the Ministry of Education for Optoelectronic Measurement Technology and Instrument.
 
 ### 🔭Reseach-wise, I mainly focus on:
 - **Image Fusion**
