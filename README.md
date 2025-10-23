@@ -1,6 +1,7 @@
-## Hi there, I'm Yichen Sun 👋
+
 
 <!--
+## Hi there, I'm Yichen Sun 👋
 **sunyichen1994/sunyichen1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,16 +18,16 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm [Yichen Sun](https://scholar.google.com/citations?hl=zh-CN&user=8XHm_3MAAAAJ)!  ![Yichen's github stats](https://github-readme-stats.vercel.app/api?username=sunyichen1994&show_icons=true&theme=radical)
+## 😄Hi there, I'm [Yichen Sun](https://scholar.google.com/citations?hl=zh-CN&user=8XHm_3MAAAAJ)!  ![Yichen's github stats](https://github-readme-stats.vercel.app/api?username=sunyichen1994&show_icons=true&theme=radical)
 
-#### I received my Ph.D. from Beijing University of Technology, I was once a member of the Key Laboratory of the Ministry of Education for Optoelectronic Measurement Technology and Instrument.
+### I received my Ph.D. from Beijing University of Technology, I was once a member of the Key Laboratory of the Ministry of Education for Optoelectronic Measurement Technology and Instrument.
 
-#### Reseach-wise, I mainly focus on:
+### Reseach-wise, I mainly focus on:
 - **Image Fusion**
 - **Diffractive Deep Neural Networks**
 
 
-#### ⚡Publications:
+### ⚡Publications:
 1. **Yichen Sun**,  et al. "An Innovative Optimization Strategy Based on Mamba and Generative Adversarial Networks for Efficient and High-Performance Multimodal Image Fusion", Engineering Applications of Artificial Intelligence (**EAAI**)(**TOP, IF=8.0**), 2025.〖[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625028192)〗〖[Code](https://github.com/sunyichen1994/MMGFuse)〗
 
 2. **Yichen Sun**,  et al. "HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion", IEEE Transactions on Instrumentation and Measurement (**IEEE TIM**)(**IF=5.9**), 2025.〖[Paper](https://ieeexplore.ieee.org/abstract/document/10835199)〗〖[Code](https://github.com/sunyichen1994/HAIAFusion)〗
