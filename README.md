@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 4. **Yichen Sun**,  et al. "MBHFuse: A multi-branch heterogeneous global and local infrared and visible image fusion with differential convolutional amplification features",  Optics & Laser Technology(**TOP, IF=5.0**), 2024.〖[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399224011241)〗〖[Code](https://github.com/sunyichen1994/MBHFuse)〗
 
-5.**Yichen Sun**,  et al. "2bit nonlinear diffractive deep neural network (2bit ND2NN): A quantized nonlinear all-optical diffractive deep neural network implementation",  Optics & Laser Technology(**TOP, IF=5.0**), 2024.〖[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399224005784)〗
+5. **Yichen Sun**,  et al. "2bit nonlinear diffractive deep neural network (2bit ND2NN): A quantized nonlinear all-optical diffractive deep neural network implementation",  Optics & Laser Technology(**TOP, IF=5.0**), 2024.〖[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0030399224005784)〗
 
-6.**Yichen Sun**,  et al. "A deep-learning-based GPS signal spoofing detection method for small UAVs", Drones, 2023.〖[Paper](https://www.mdpi.com/2504-446X/7/6/370)〗〖[Code](https://github.com/sunyichen1994/A-Deep-Learning-Based-GPS-Signal-Spoofing-Detection-Method-for-Small-UAVs)〗
+6. **Yichen Sun**,  et al. "A deep-learning-based GPS signal spoofing detection method for small UAVs", Drones, 2023.〖[Paper](https://www.mdpi.com/2504-446X/7/6/370)〗〖[Code](https://github.com/sunyichen1994/A-Deep-Learning-Based-GPS-Signal-Spoofing-Detection-Method-for-Small-UAVs)〗
 
 7. **Yichen Sun**,  et al. "Review of diffractive deep neural networks", Journal of the Optical Society of America B, 2023.〖[Paper](https://opg.optica.org/josab/abstract.cfm?uri=josab-40-11-2951)〗
 
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 9. **Yichen Sun**,  et al. "Modeling and simulation of all-optical diffractive neural network based on nonlinear optical materials", Optics Letters(**OL**), 2021.〖[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-1-126)〗
 
-10.**Yichen Sun**,  et al. "Nonlinear All‐Optical Diffractive Deep Neural Network with 10.6 μm Wavelength for Image Classification", International Journal of Optics, 2021.〖[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2021/6667495)〗
+10. **Yichen Sun**,  et al. "Nonlinear All‐Optical Diffractive Deep Neural Network with 10.6 μm Wavelength for Image Classification", International Journal of Optics, 2021.〖[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2021/6667495)〗
